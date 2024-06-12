@@ -1,1 +1,1 @@
-Código simples em Python que uso para mesclar PDFs.
+Just a simple Python code I use to merge PDFs.
